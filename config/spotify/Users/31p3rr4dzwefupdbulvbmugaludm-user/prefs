@@ -1,0 +1,2 @@
+connect.dial_devices="[{\"address\":\"192.168.1.142\",\"app_state\":\"MISSING\",\"created_timestamp\":1728824411,\"device_id\":\"1c342b6e-1f17-308c-ac9d-c7664e76a22a\",\"dial_location_url\":\"http://192.168.1.142:60000/dd.xml\",\"display_name\":\"Nadia's Fire TV\",\"last_seen\":1728828671,\"manufacturer\":\"Amazon\",\"model_name\":\"AFTKRT\",\"product_cap\":\"\",\"public_ip\":\"2a00:23c7:790a:b401:49c9:d859:5021:7638\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"dca0d05ecac0\",\"port\":9,\"retries\":800}}]"
+audio.play_bitrate_non_metered_migrated=true

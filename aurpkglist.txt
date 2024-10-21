@@ -1,0 +1,12 @@
+bonsai.sh-git
+cava
+circumflex
+dislocker
+oh-my-posh
+oneko
+ttf-ms-win11-auto
+tty-clock
+waveterm
+wlogout
+yay
+yay-debug

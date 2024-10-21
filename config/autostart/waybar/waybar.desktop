@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=waybar
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Waybar
+Comment=Start Waybar at login
